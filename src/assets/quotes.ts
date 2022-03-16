@@ -170,19 +170,20 @@ const quotes: Quote[] = [
     company: "Samtec",
   },
   {
-    website: "https://www.biba.uni-bremen.de/en/institute/infrastructure.html",
+    website: "https://www.liveaction.com/",
     logo: {
-      alt: "BIBA logo",
-      src: "/img/pages/customers/cards/biba.svg",
+      alt: "LiveAction logo",
+      src: "/img/pages/customers/logos/liveaction.svg",
       height: 56,
       width: 140,
     },
     text:
-      "At BIBA, we leverage QuestDB in IoT and Industrial Automation. Aside from out-of-the-box readiness, the performance is fantastic, and the ease of usage provides us a path to perform faster and better analyses.",
-    author: "Shan Desai",
-    role: "Research Scientist",
-    company: "BIBA",
+      "QuestDB is impressive and stands out as a superior option. We use it as the basis of our time series analytics for network threat detection.",
+    author: "Randy Caldejon",
+    role: "VP Product Development ThreatEye",
+    company: "LiveAction",
   },
+
 ]
 
 export default quotes
